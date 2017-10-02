@@ -1,0 +1,26 @@
+﻿  Player.cpp
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(369): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(508): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(510): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(518): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(520): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(527): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\player.cpp(529): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Game.cpp
+  Board.cpp
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\documents\visual studio 2017\projects\battleship\battleship\board.cpp(253): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Battleship.vcxproj -> c:\users\alexa\documents\visual studio 2017\Projects\Battleship\Debug\Battleship.exe
+  Battleship.vcxproj -> c:\users\alexa\documents\visual studio 2017\Projects\Battleship\Debug\Battleship.pdb (Partial PDB)
